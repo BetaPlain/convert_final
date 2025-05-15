@@ -2299,12 +2299,12 @@
 		activate_law = law_type:law_freedom_of_conscience
 		activate_law = law_type:law_isolationism
 		activate_law = law_type:law_land_based_taxation
-		activate_law = law_type:law_local_police
+		activate_law = law_type:law_no_police
 		activate_law = law_type:law_no_colonial_affairs
 		activate_law = law_type:law_no_health_system
 		activate_law = law_type:law_no_home_affairs
 		activate_law = law_type:law_no_migration_controls
-		activate_law = law_type:law_no_schools
+		activate_law = law_type:law_public_schools
 		activate_law = law_type:law_no_social_security
 		activate_law = law_type:law_no_womens_rights
 		activate_law = law_type:law_no_workers_rights
@@ -2312,13 +2312,10 @@
 		activate_law = law_type:law_professional_army
 		activate_law = law_type:law_racial_segregation
 		activate_law = law_type:law_right_of_assembly
-		activate_law = law_type:law_serfdom
+		activate_law = law_type:law_homesteading
 		activate_law = law_type:law_slavery_banned
-		activate_law = law_type:law_traditionalism
-		set_institution_investment_level = {
-			institution = institution_police
-			level = 1
-		}
+		activate_law = law_type:law_laissez_faire
+		
 	}
 	c:MDK = {
 		effect_native_conscription_3 = yes
