@@ -2951,7 +2951,7 @@ GAR = {
 
 GBR = {
 	color = { 229 68 78 }
-	country_type = unrecognized
+	country_type = recognized
 	tier = empire
 	cultures = { british }
 	religion = protestant
@@ -10348,7 +10348,7 @@ X59 = {
 
 X60 = {
 	color = { 95 106 207 }
-	country_type = unrecognized
+	country_type = recognized
 	tier = kingdom
 	cultures = { french }
 	religion = catholic
