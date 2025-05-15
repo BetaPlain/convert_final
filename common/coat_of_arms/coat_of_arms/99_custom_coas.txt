@@ -86,3 +86,5 @@ Y03 = { textured_emblem = { texture = "custom_export/Y03.tga" } }
 Y07 = { textured_emblem = { texture = "custom_export/Y07.tga" } }
 YK1 = { textured_emblem = { texture = "custom_export/YK1.tga" } }
 YUN = { textured_emblem = { texture = "custom_export/YUN.tga" } }
+MAL = { textured_emblem = { texture = "custom_export/Mal_COA.tga" } }
+

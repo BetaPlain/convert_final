@@ -5542,7 +5542,7 @@ MAK = {
 }
 
 MAL = {
-	color = { 59 8 14 }
+	color = { 97 15 24 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mande }
