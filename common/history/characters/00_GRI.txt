@@ -1,0 +1,32 @@
+﻿CHARACTERS = {
+	c:GRI = {
+		create_character = {
+			first_name = "Amaru_Bomboi"
+			ruler = yes
+			culture = cu:guarani
+			religion = rel:sunni
+			birth_date = 1807.12.4
+			traits = {
+				cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Tuvicha_Curupaiti"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1791.11.25
+		}
+
+		create_character = {
+			first_name = "Jakaira_Tucague"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1778.2.11
+			traits = {
+				inept 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,53 @@
+﻿CHARACTERS = {
+	c:MNP = {
+		create_character = {
+			first_name = "Jira"
+			last_name = "Charajit"
+			female = yes
+			culture = cu:manipuri
+			religion = rel:theravada
+			birth_date = 1814.1.15
+			traits = {
+				basic_diplomat cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Chingthang_Khomba"
+			last_name = "Ganavira"
+			heir = yes
+			culture = cu:manipuri
+			religion = rel:theravada
+			birth_date = 1835.5.5
+			traits = {
+				basic_colonial_administrator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Pengshiba_II"
+			last_name = "Ganavira"
+			ruler = yes
+			culture = cu:manipuri
+			religion = rel:theravada
+			birth_date = 1793.2.2
+			traits = {
+				basic_diplomat charismatic 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Khagemba_Shubol"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1786.7.7
+			traits = {
+				wrathful 
+			}
+		}
+
+	}
+}

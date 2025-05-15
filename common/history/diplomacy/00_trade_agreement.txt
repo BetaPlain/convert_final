@@ -1,0 +1,152 @@
+﻿DIPLOMACY = {
+	c:X63 = {
+		create_diplomatic_pact = {
+			country = c:PER
+			type = trade_agreement
+		}
+	}
+	c:BRD = {
+		create_diplomatic_pact = {
+			country = c:SPA
+			type = trade_agreement
+		}
+	}
+	c:ANK = {
+		create_diplomatic_pact = {
+			country = c:SPA
+			type = trade_agreement
+		}
+	}
+	c:BNY = {
+		create_diplomatic_pact = {
+			country = c:SPA
+			type = trade_agreement
+		}
+	}
+	c:SIA = {
+		create_diplomatic_pact = {
+			country = c:X81
+			type = trade_agreement
+		}
+	}
+	c:X72 = {
+		create_diplomatic_pact = {
+			country = c:HND
+			type = trade_agreement
+		}
+	}
+	c:SLS = {
+		create_diplomatic_pact = {
+			country = c:LAN
+			type = trade_agreement
+		}
+	}
+	c:GRI = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+	c:C23 = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+	c:AYM = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+	c:X58 = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+	c:Y07 = {
+		create_diplomatic_pact = {
+			country = c:LAN
+			type = trade_agreement
+		}
+	}
+	c:X15 = {
+		create_diplomatic_pact = {
+			country = c:SPA
+			type = trade_agreement
+		}
+	}
+	c:PEU = {
+		create_diplomatic_pact = {
+			country = c:SPA
+			type = trade_agreement
+		}
+	}
+	c:BRZ = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+	c:WIN = {
+		create_diplomatic_pact = {
+			country = c:GBR
+			type = trade_agreement
+		}
+	}
+	c:WAS = {
+		create_diplomatic_pact = {
+			country = c:LAN
+			type = trade_agreement
+		}
+	}
+	c:SIL = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+	c:X44 = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+	c:X45 = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+	c:X46 = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+	c:X47 = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+	c:X48 = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+	c:X49 = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+	c:X50 = {
+		create_diplomatic_pact = {
+			country = c:MAL
+			type = trade_agreement
+		}
+	}
+}

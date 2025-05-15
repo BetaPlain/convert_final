@@ -1,0 +1,53 @@
+﻿CHARACTERS = {
+	c:TNG = {
+		create_character = {
+			first_name = "Iolani_Palani"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1794.2.10
+			traits = {
+				inexperienced 
+			}
+		}
+
+		create_character = {
+			first_name = "Elikapeka"
+			last_name = "Kehaulani"
+			female = yes
+			culture = cu:polynesian
+			religion = rel:animist
+			birth_date = 1801.8.20
+			traits = {
+				romantic 
+			}
+		}
+
+		create_character = {
+			first_name = "Palani"
+			last_name = "Ha_aheo"
+			heir = yes
+			culture = cu:polynesian
+			religion = rel:animist
+			birth_date = 1819.9.9
+			traits = {
+				basic_diplomat charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Akamu_V"
+			last_name = "Ha_aheo"
+			ruler = yes
+			culture = cu:polynesian
+			religion = rel:animist
+			birth_date = 1775.5.22
+			traits = {
+				ambitious basic_political_operator 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

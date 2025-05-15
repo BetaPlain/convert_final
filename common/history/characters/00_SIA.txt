@@ -1,0 +1,55 @@
+﻿CHARACTERS = {
+	c:SIA = {
+		create_character = {
+			first_name = "Rama_Panomyaong"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1788.3.14
+			traits = {
+				persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Amporn"
+			last_name = "Phimai"
+			female = yes
+			culture = cu:thai
+			religion = rel:sunni
+			birth_date = 1783.1.15
+			traits = {
+				basic_colonial_administrator imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "Borommaracha"
+			last_name = "Suphannaphum"
+			heir = yes
+			culture = cu:thai
+			religion = rel:sunni
+			birth_date = 1810.8.30
+			traits = {
+				charismatic experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Narai_I"
+			last_name = "Suphannaphum"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_4
+			culture = cu:thai
+			religion = rel:sunni
+			birth_date = 1790.12.10
+			traits = {
+				basic_defensive_strategist basic_political_operator cautious ruthless 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

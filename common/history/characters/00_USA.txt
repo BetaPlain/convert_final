@@ -1,0 +1,116 @@
+﻿CHARACTERS = {
+	c:USA = {
+		create_character = {
+			first_name = "Guy_Bedford"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1800.12.5
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Benjamin_Middleton"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1795.7.19
+		}
+
+		create_character = {
+			first_name = "Archibald_Rodney"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1811.7.16
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Ernest_Augustus_Braddock"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1799.3.25
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Lawrence_Uxbridge"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1802.1.28
+		}
+
+		create_character = {
+			first_name = "Charles_Cornwallis"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1809.3.16
+		}
+
+		create_character = {
+			first_name = "Geoffrey_Hudson"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1801.10.2
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Samuel_Herbert"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1799.10.7
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Frederick_Augustus_de_Clifford"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1805.3.11
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Hugh_Beresford"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1799.7.5
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Richard_Rodney"
+			ruler = yes
+			culture = cu:dixie
+			religion = rel:protestant
+			birth_date = 1770.6.3
+			traits = {
+				cautious expert_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Jacob_Button"
+			is_admiral = yes
+			commander_rank = commander_rank_3
+			birth_date = 1779.6.19
+			traits = {
+				explorer 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,40 @@
+﻿CHARACTERS = {
+	c:BRD = {
+		create_character = {
+			first_name = "Rushatsi_Abazigaba"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1801.4.13
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Rukidi"
+			last_name = "Atekok"
+			heir = yes
+			culture = cu:baganda
+			religion = rel:animist
+			birth_date = 1776.11.22
+			traits = {
+				experienced_colonial_administrator innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Mwambutsa_II"
+			last_name = "Huma"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:rundi
+			religion = rel:animist
+			birth_date = 1785.11.2
+			traits = {
+				cautious meticulous 
+			}
+		}
+
+	}
+}

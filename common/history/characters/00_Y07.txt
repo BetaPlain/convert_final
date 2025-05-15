@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:Y07 = {
+		create_character = {
+			first_name = "Gelar_Adoni"
+			ruler = yes
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1778.2.27
+			traits = {
+				meticulous 
+			}
+		}
+
+	}
+}

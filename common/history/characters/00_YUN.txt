@@ -1,0 +1,55 @@
+﻿CHARACTERS = {
+	c:YUN = {
+		create_character = {
+			first_name = "Youjian_Du"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1805.10.22
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Qizhen"
+			last_name = "Konbaung"
+			heir = yes
+			culture = cu:han
+			religion = rel:theravada
+			birth_date = 1816.5.18
+			traits = {
+				charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Jira"
+			last_name = "Ganavira"
+			female = yes
+			culture = cu:manipuri
+			religion = rel:theravada
+			birth_date = 1790.10.11
+			traits = {
+				arrogant basic_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Cihuan_I"
+			last_name = "Konbaung"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:han
+			religion = rel:theravada
+			birth_date = 1791.7.18
+			traits = {
+				basic_diplomat reserved 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

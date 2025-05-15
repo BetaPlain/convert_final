@@ -1,0 +1,22 @@
+﻿CHARACTERS = {
+	c:AYM = {
+		create_character = {
+			first_name = "Anquimarca_Canchari"
+			ruler = yes
+			culture = cu:aimara
+			religion = rel:catholic
+			birth_date = 1779.9.1
+			traits = {
+				bigoted experienced_colonial_administrator 
+			}
+		}
+
+		create_character = {
+			first_name = "Illapa_Puyu-Vilca"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1778.10.25
+		}
+
+	}
+}

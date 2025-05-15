@@ -1,0 +1,32 @@
+﻿CHARACTERS = {
+	c:C02 = {
+		create_character = {
+			first_name = "Taskanugi_Hatke_Yaholo"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1789.5.17
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Hopothemico_Chitto"
+			ruler = yes
+			culture = cu:muskogean
+			religion = rel:animist
+			birth_date = 1807.2.17
+		}
+
+		create_character = {
+			first_name = "Mumagechee_Hasse_Ola"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1795.9.28
+			traits = {
+				alcoholic 
+			}
+		}
+
+	}
+}

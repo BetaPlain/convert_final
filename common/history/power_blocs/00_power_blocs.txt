@@ -1,0 +1,34 @@
+﻿POWER_BLOCS = {
+	c:PER = {
+		create_power_bloc = {
+			name = PER_BLOC
+			map_color = { 60 150 230 }
+			founding_date = 1483.5.24
+			identity = identity_sovereign_empire
+			principle = principle_vassalization_1
+			
+			member = c:I09
+			member = c:KAS
+			member = c:LAD
+			member = c:PAN
+			member = c:W34
+			member = c:X32
+			member = c:X63
+		}
+	}
+
+	c:SPA = {
+		create_power_bloc = {
+			name = SPA_BLOC
+			map_color = { 211 136 6 }
+			founding_date = 1562.12.9
+			identity = identity_sovereign_empire
+			principle = principle_vassalization_1
+			
+			member = c:ANK
+			member = c:BNY
+			member = c:BRD
+		}
+	}
+
+}

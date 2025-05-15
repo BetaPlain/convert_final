@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:SHS = {
+		create_character = {
+			first_name = "Pye_Chantha"
+			last_name = "Mong_Mit"
+			female = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1811.7.20
+			traits = {
+				cautious experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Minkhaung"
+			last_name = "Suphannaphum"
+			heir = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1833.10.16
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Thadominbya_V"
+			last_name = "Suphannaphum"
+			ruler = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1793.6.26
+			traits = {
+				pious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

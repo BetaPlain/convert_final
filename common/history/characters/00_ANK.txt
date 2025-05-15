@@ -1,0 +1,53 @@
+﻿CHARACTERS = {
+	c:ANK = {
+		create_character = {
+			first_name = "Mutambuka_Bongera"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1797.9.17
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Ruhinda"
+			last_name = "Hinda"
+			heir = yes
+			culture = cu:baganda
+			religion = rel:animist
+			birth_date = 1823.11.24
+			traits = {
+				basic_diplomat trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Kanjogera"
+			last_name = "Kooki"
+			female = yes
+			culture = cu:baganda
+			religion = rel:animist
+			birth_date = 1800.6.1
+			traits = {
+				experienced_colonial_administrator innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Ruhinda_V"
+			last_name = "Hinda"
+			ruler = yes
+			culture = cu:baganda
+			religion = rel:animist
+			birth_date = 1802.4.2
+			traits = {
+				imperious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

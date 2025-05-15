@@ -1,0 +1,26 @@
+﻿CHARACTERS = {
+	c:PEU = {
+		create_character = {
+			first_name = "Leopoldo_Orellana"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:south_andean
+			religion = rel:catholic
+			birth_date = 1788.10.25
+			traits = {
+				experienced_diplomat wrathful 
+			}
+		}
+
+		create_character = {
+			first_name = "Juan_Bautista_Manrique_de_Velasco"
+			is_admiral = yes
+			birth_date = 1788.3.26
+			traits = {
+				inept 
+			}
+		}
+
+	}
+}

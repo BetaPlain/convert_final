@@ -1,0 +1,54 @@
+﻿CHARACTERS = {
+	c:JAV = {
+		create_character = {
+			first_name = "Tingkir"
+			last_name = "Demak"
+			female = yes
+			culture = cu:javan
+			religion = rel:hindu
+			birth_date = 1813.7.9
+			traits = {
+				innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Raden_Sotor_Mas"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1792.12.3
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Wikramawardhana"
+			last_name = "Mas"
+			heir = yes
+			culture = cu:javan
+			religion = rel:hindu
+			birth_date = 1811.8.9
+			traits = {
+				basic_political_operator reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Kertawardhana_I"
+			last_name = "Mas"
+			ruler = yes
+			interest_group = ig_industrialists
+			culture = cu:javan
+			religion = rel:hindu
+			birth_date = 1785.11.27
+			traits = {
+				basic_political_operator romantic 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

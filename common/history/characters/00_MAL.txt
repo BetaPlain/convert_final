@@ -1,0 +1,77 @@
+﻿CHARACTERS = {
+	c:MAL = {
+		create_character = {
+			first_name = "Da_ud_Diarra"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1802.2.20
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Mami_Amadou"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1790.3.4
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Sanibar_Moussa"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1781.8.26
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Dhu_al-Nun_Deo"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1805.2.18
+			traits = {
+				inept 
+			}
+		}
+
+		create_character = {
+			first_name = "_Ammar_Keita"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1804.2.19
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Yusuf_Toure"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:mande
+			religion = rel:sunni
+			birth_date = 1786.2.15
+			traits = {
+				experienced_diplomat innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "_Ali_Zalil_Konare"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1784.3.8
+			traits = {
+				explorer 
+			}
+		}
+
+	}
+}

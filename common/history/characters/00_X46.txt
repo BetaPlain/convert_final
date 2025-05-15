@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:X46 = {
+		create_character = {
+			first_name = "Bakr_Moussa"
+			ruler = yes
+			interest_group = ig_industrialists
+			culture = cu:mande
+			religion = rel:sunni
+			birth_date = 1775.10.21
+			traits = {
+				ambitious 
+			}
+		}
+
+	}
+}

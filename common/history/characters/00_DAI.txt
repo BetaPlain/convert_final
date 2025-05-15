@@ -1,0 +1,74 @@
+﻿CHARACTERS = {
+	c:DAI = {
+		create_character = {
+			first_name = "Nghi_Dan_Dinh"
+			is_admiral = yes
+			birth_date = 1795.8.13
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Tu_Thanh_Tran"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1782.10.16
+			traits = {
+				ambitious basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Duy_Than_Do"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1795.11.26
+			traits = {
+				syphilis 
+			}
+		}
+
+		create_character = {
+			first_name = "Thuy_Tram"
+			last_name = "Le"
+			female = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1786.11.27
+			traits = {
+				cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Phuc_Nguyen"
+			last_name = "Suphannaphum"
+			heir = yes
+			culture = cu:thai
+			religion = rel:mahayana
+			birth_date = 1816.2.19
+			traits = {
+				meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "An_V"
+			last_name = "Suphannaphum"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1795.9.24
+			traits = {
+				ambitious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

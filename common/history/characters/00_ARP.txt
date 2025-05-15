@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:ARP = {
+		create_character = {
+			first_name = "Tasyah_Wasco"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:animist
+			birth_date = 1714.7.7
+			traits = {
+				basic_political_operator sickly 
+			}
+		}
+
+	}
+}

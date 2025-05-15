@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:M09 = {
+		create_character = {
+			first_name = "Matawagan_Sakawithiniwak"
+			ruler = yes
+			interest_group = ig_industrialists
+			culture = cu:cree
+			religion = rel:animist
+			birth_date = 1777.4.19
+			traits = {
+				experienced_diplomat 
+			}
+		}
+
+	}
+}

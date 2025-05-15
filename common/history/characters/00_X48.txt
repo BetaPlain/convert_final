@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:X48 = {
+		create_character = {
+			first_name = "Mahmud_Toumani"
+			ruler = yes
+			interest_group = ig_industrialists
+			culture = cu:mande
+			religion = rel:sunni
+			birth_date = 1787.1.1
+			traits = {
+				direct experienced_diplomat 
+			}
+		}
+
+	}
+}

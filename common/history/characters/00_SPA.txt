@@ -1,0 +1,113 @@
+﻿CHARACTERS = {
+	c:SPA = {
+		create_character = {
+			first_name = "Gaspar_Cabeza_de_Vaca"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1804.1.7
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Jorge_de_Ayala"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1809.12.8
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Ana"
+			last_name = "Ruspoli"
+			female = yes
+			culture = cu:spanish
+			religion = rel:catholic
+			birth_date = 1812.6.10
+			traits = {
+				cautious experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Jose"
+			last_name = "von_Hohenzollern"
+			heir = yes
+			culture = cu:spanish
+			religion = rel:catholic
+			birth_date = 1831.8.17
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Felipe_II"
+			last_name = "von_Hohenzollern"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			interest_group = ig_industrialists
+			culture = cu:spanish
+			religion = rel:catholic
+			birth_date = 1813.10.26
+			traits = {
+				cautious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Juan_Bautista_de_Borja"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1795.3.11
+			traits = {
+				cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Juan_Bautista_de_Borja"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1803.8.25
+			traits = {
+				inept 
+			}
+		}
+
+		create_character = {
+			first_name = "Antonio_Nunez_de_Balboa"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1791.1.19
+			traits = {
+				basic_offensive_planner meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Antonio_Nunez_de_Balboa"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1788.9.1
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Enrique_Patino"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.9.26
+		}
+
+	}
+}

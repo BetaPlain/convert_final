@@ -1,0 +1,36 @@
+﻿CHARACTERS = {
+	c:X88 = {
+		create_character = {
+			first_name = "Keani"
+			last_name = "Anakalia"
+			heir = yes
+			culture = cu:polynesian
+			religion = rel:animist
+			birth_date = 1830.7.11
+			traits = {
+				experienced_diplomat trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Kalea_Loe"
+			is_admiral = yes
+			commander_rank = commander_rank_3
+			female = yes
+			birth_date = 1803.6.13
+		}
+
+		create_character = {
+			first_name = "Kealii_I"
+			last_name = "Anakalia"
+			ruler = yes
+			culture = cu:polynesian
+			religion = rel:animist
+			birth_date = 1802.2.6
+			traits = {
+				romantic 
+			}
+		}
+
+	}
+}

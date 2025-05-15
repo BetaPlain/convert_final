@@ -1,0 +1,407 @@
+﻿DIPLOMACY = {
+	c:SCA = {
+		create_diplomatic_pact = {
+			country = c:X43
+			type = puppet
+		}
+	}
+	c:X43 = {
+		add_liberty_desire = -50
+	}
+	c:GBR = {
+		create_diplomatic_pact = {
+			country = c:WIN
+			type = chartered_company
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:X15
+			type = colony
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:PEU
+			type = colony
+		}
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:BRD
+			type = puppet
+		}
+	}
+	c:BRD = {
+		add_liberty_desire = -29.233
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:ANK
+			type = puppet
+		}
+	}
+	c:ANK = {
+		add_liberty_desire = -39.745
+	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:BNY
+			type = puppet
+		}
+	}
+	c:BNY = {
+		add_liberty_desire = -30.743
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:W34
+			type = personal_union
+		}
+	}
+	c:W34 = {
+		add_liberty_desire = -50
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:X32
+			type = personal_union
+		}
+	}
+	c:X32 = {
+		add_liberty_desire = -50
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:X63
+			type = puppet
+		}
+	}
+	c:X63 = {
+		add_liberty_desire = 47.864
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:LAD
+			type = protectorate
+		}
+	}
+	c:LAD = {
+		add_liberty_desire = -50
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:KAS
+			type = protectorate
+		}
+	}
+	c:KAS = {
+		add_liberty_desire = -50
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:I09
+			type = protectorate
+		}
+	}
+	c:I09 = {
+		add_liberty_desire = -50
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:PAN
+			type = protectorate
+		}
+	}
+	c:PAN = {
+		add_liberty_desire = -50
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:X75
+			type = vassal
+		}
+	}
+	c:X75 = {
+		add_liberty_desire = -50
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:BRZ
+			type = colony
+		}
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:GRI
+			type = vassal
+		}
+	}
+	c:GRI = {
+		add_liberty_desire = -50
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:SIL
+			type = vassal
+		}
+	}
+	c:SIL = {
+		add_liberty_desire = -50
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:C23
+			type = vassal
+		}
+	}
+	c:C23 = {
+		add_liberty_desire = -49.225
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:X58
+			type = vassal
+		}
+	}
+	c:X58 = {
+		add_liberty_desire = -42.69
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:X44
+			type = vassal
+		}
+	}
+	c:X44 = {
+		add_liberty_desire = -50
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:X45
+			type = vassal
+		}
+	}
+	c:X45 = {
+		add_liberty_desire = -50
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:X46
+			type = vassal
+		}
+	}
+	c:X46 = {
+		add_liberty_desire = -50
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:X47
+			type = vassal
+		}
+	}
+	c:X47 = {
+		add_liberty_desire = -50
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:X48
+			type = vassal
+		}
+	}
+	c:X48 = {
+		add_liberty_desire = -50
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:X49
+			type = vassal
+		}
+	}
+	c:X49 = {
+		add_liberty_desire = -50
+	}
+	c:MAL = {
+		create_diplomatic_pact = {
+			country = c:X50
+			type = vassal
+		}
+	}
+	c:X50 = {
+		add_liberty_desire = -50
+	}
+	c:X10 = {
+		create_diplomatic_pact = {
+			country = c:MNP
+			type = protectorate
+		}
+	}
+	c:MNP = {
+		add_liberty_desire = 4.495
+	}
+	c:X10 = {
+		create_diplomatic_pact = {
+			country = c:YUN
+			type = protectorate
+		}
+	}
+	c:YUN = {
+		add_liberty_desire = 36.806
+	}
+	c:I09 = {
+		create_diplomatic_pact = {
+			country = c:X37
+			type = protectorate
+		}
+	}
+	c:X37 = {
+		add_liberty_desire = -28.79
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:M15
+			type = protectorate
+		}
+	}
+	c:M15 = {
+		add_liberty_desire = -27.675
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:X61
+			type = protectorate
+		}
+	}
+	c:X61 = {
+		add_liberty_desire = -47.832
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:X67
+			type = protectorate
+		}
+	}
+	c:X67 = {
+		add_liberty_desire = -18.613
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:B14
+			type = protectorate
+		}
+	}
+	c:B14 = {
+		add_liberty_desire = -48.735
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:W03
+			type = protectorate
+		}
+	}
+	c:W03 = {
+		add_liberty_desire = -50
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:L09
+			type = protectorate
+		}
+	}
+	c:L09 = {
+		add_liberty_desire = -50
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:WAS
+			type = colony
+		}
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:X53
+			type = protectorate
+		}
+	}
+	c:X53 = {
+		add_liberty_desire = -12.013
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:NNG
+			type = protectorate
+		}
+	}
+	c:NNG = {
+		add_liberty_desire = -50
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:Y07
+			type = protectorate
+		}
+	}
+	c:Y07 = {
+		add_liberty_desire = -50
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:X87
+			type = protectorate
+		}
+	}
+	c:X87 = {
+		add_liberty_desire = -50
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:X13
+			type = protectorate
+		}
+	}
+	c:X13 = {
+		add_liberty_desire = 32.36
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:LAO
+			type = protectorate
+		}
+	}
+	c:LAO = {
+		add_liberty_desire = -12.802
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:DAI
+			type = protectorate
+		}
+	}
+	c:DAI = {
+		add_liberty_desire = -6.567
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:SLS
+			type = protectorate
+		}
+	}
+	c:SLS = {
+		add_liberty_desire = -50
+	}
+	c:LAN = {
+		create_diplomatic_pact = {
+			country = c:X64
+			type = protectorate
+		}
+	}
+	c:X64 = {
+		add_liberty_desire = -36.332
+	}
+	c:TUS = {
+		create_diplomatic_pact = {
+			country = c:W32
+			type = chartered_company
+		}
+	}
+}

@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:LAD = {
+		create_character = {
+			first_name = "Zizi"
+			last_name = "Ustajlu"
+			female = yes
+			culture = cu:persian
+			religion = rel:shiite
+			birth_date = 1803.3.27
+			traits = {
+				basic_diplomat romantic 
+			}
+		}
+
+		create_character = {
+			first_name = "Gyalpo"
+			last_name = "Qoli"
+			heir = yes
+			culture = cu:persian
+			religion = rel:shiite
+			birth_date = 1824.8.27
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Lotus_I"
+			last_name = "Qoli"
+			ruler = yes
+			culture = cu:persian
+			religion = rel:shiite
+			birth_date = 1805.7.4
+			traits = {
+				cautious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:COM = {
+		create_character = {
+			first_name = "Tonaenko_Parkeenaum"
+			ruler = yes
+			culture = cu:paiute
+			religion = rel:catholic
+			birth_date = 1783.1.12
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+	}
+}

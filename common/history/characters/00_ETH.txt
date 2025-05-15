@@ -1,0 +1,35 @@
+﻿CHARACTERS = {
+	c:ETH = {
+		create_character = {
+			first_name = "Mika_el_Sehul_Wami"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1797.2.5
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Taqla_Haymanot_III"
+			last_name = "Solomonid"
+			ruler = yes
+			culture = cu:amhara
+			religion = rel:oriental_orthodox
+			birth_date = 1799.5.7
+			traits = {
+				basic_political_operator cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Malta_Krestos_Wami"
+			is_admiral = yes
+			birth_date = 1792.2.11
+			traits = {
+				alcoholic 
+			}
+		}
+
+	}
+}

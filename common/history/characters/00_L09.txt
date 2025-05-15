@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:L09 = {
+		create_character = {
+			first_name = "Marron_Kalti"
+			ruler = yes
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1800.3.5
+			traits = {
+				basic_colonial_administrator cautious 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,37 @@
+﻿CHARACTERS = {
+	c:WIN = {
+		create_character = {
+			first_name = "Isaac_Moore"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:neo-caribbean_colony-english
+			religion = rel:protestant
+			birth_date = 1798.11.24
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "John_Rooke"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1788.2.23
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Francis_Braddock"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1785.3.14
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+	}
+}
