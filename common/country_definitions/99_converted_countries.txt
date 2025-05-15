@@ -5542,8 +5542,8 @@ MAK = {
 }
 
 MAL = {
-	color = { 75 179 27 }
-	country_type = unrecognized
+	color = { 59 8 14 }
+	country_type = recognized
 	tier = kingdom
 	cultures = { mande }
 	religion = sunni
