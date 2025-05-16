@@ -8235,7 +8235,7 @@
 				add_ownership = {
 					country = {
 						country = c:HND
-						levels = 19
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -17725,6 +17725,17 @@
 				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
@@ -18087,7 +18098,7 @@
 				add_ownership = {
 					country = {
 						country = c:HND
-						levels = 127
+						levels = 40
 					}
 				}
 				reserves = 1
@@ -24436,7 +24447,7 @@
 				add_ownership = {
 					country = {
 						country = c:HND
-						levels = 142
+						levels = 32
 					}
 				}
 				reserves = 1
@@ -29977,17 +29988,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:GBR
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 		}
 		region_state:SPA = {
