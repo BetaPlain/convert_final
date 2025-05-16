@@ -54,7 +54,7 @@
 			first_name = "Dilaram"
 			last_name = "Zand"
 			female = yes
-			culture = cu:tajik
+			culture = cu:persian
 			religion = rel:shiite
 			birth_date = 1785.12.16
 			traits = {
@@ -66,7 +66,7 @@
 			first_name = "Joneid"
 			last_name = "Timurid"
 			heir = yes
-			culture = cu:tajik
+			culture = cu:persian
 			religion = rel:shiite
 			birth_date = 1811.5.3
 			traits = {
@@ -78,7 +78,7 @@
 			first_name = "Joneid_I"
 			last_name = "Timurid"
 			ruler = yes
-			culture = cu:tajik
+			culture = cu:persian
 			religion = rel:shiite
 			birth_date = 1772.1.13
 			traits = {

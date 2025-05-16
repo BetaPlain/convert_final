@@ -2800,7 +2800,7 @@
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_racial_segregation
 		activate_law = law_type:law_no_home_affairs
-		activate_law = law_type:law_no_migration_controls
+		activate_law = law_type:law_migration_controls
 		activate_law = law_type:law_no_workers_rights
 		activate_law = law_type:law_professional_army
 		activate_law = law_type:law_land_based_taxation
