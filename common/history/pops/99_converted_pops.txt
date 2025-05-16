@@ -24989,11 +24989,6 @@
 		region_state:X60 = {
 			create_pop = {
 				culture = north_german
-				religion = catholic
-				size = 346793
-			}
-			create_pop = {
-				culture = north_german
 				religion = protestant
 				size = 18375
 			}
@@ -25021,11 +25016,6 @@
 				culture = ashkenazi
 				religion = jewish
 				size = 586
-			}
-			create_pop = {
-				culture = north_german
-				religion = catholic
-				size = 362963
 			}
 			create_pop = {
 				culture = north_german
@@ -25567,11 +25557,6 @@
 	s:STATE_HOLLAND = {
 		region_state:X60 = {
 			create_pop = {
-				culture = dutch
-				religion = catholic
-				size = 423313
-			}
-			create_pop = {
 				culture = ashkenazi
 				religion = jewish
 				size = 7747
@@ -25584,7 +25569,7 @@
 			create_pop = {
 				culture = dutch
 				religion = catholic
-				size = 493865
+				size = 593865
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -25614,7 +25599,7 @@
 			create_pop = {
 				culture = dutch
 				religion = catholic
-				size = 525222
+				size = 425222
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -68210,6 +68195,21 @@
 	}
 	s:STATE_WALLONIA = {
 		region_state:X60 = {
+			create_pop = {
+				culture = dutch
+				religion = catholic
+				size = 423313
+			}
+			create_pop = {
+				culture = north_german
+				religion = catholic
+				size = 346793
+			}
+			create_pop = {
+				culture = north_german
+				religion = catholic
+				size = 362963
+			}
 			create_pop = {
 				culture = wallonian
 				religion = catholic
