@@ -17778,63 +17778,14 @@ PHI_subject = {
 	}
 }
 
-PLC = { # Polish-Lithuanian Commonwealth	
+PLC = {
 	pattern = "pattern_solid.tga"
 	color1 = "red"
-	
-	colored_emblem = {
-		texture = "ce_tricolor_horizontal.dds"
-		color1 = "white"
-		color2 = "red"
-	}	
-	colored_emblem = {
-		texture = "ce_collar_golden_fleece.dds"
-		color1 = "yellow"
-		color2 = "blue_light"
-		color3 = "red"
-		instance = { scale = { 0.85 0.85 } position = { 0.33 0.56 } }		
-	}		
-	colored_emblem = {
-		texture = "ce_frame_circle.dds"
-		color1 = "yellow_dark"
-		color2 = "yellow_dark"
-		instance = { scale = { 0.16 0.05 } position = { 0.33 0.235 } }
-	}	
-	colored_emblem = {
-		texture = "ce_frame_circle.dds"
-		color1 = "brown"
-		color2 = "brown"
-		instance = { scale = { 0.16 0.05 } position = { 0.33 0.225 } }
-	}		
-	colored_emblem = {
-		texture = "ce_shield_plc.dds"
-		color1 = "red"
-		color2 = "yellow"
-		instance = { scale = { 0.75 0.75 } position = { 0.33 0.46 } }		
-	}	
-	colored_emblem = {
-		texture = "ce_solid.dds"
-		color1 = "red_dark"
-		color2 = "brown"
-		instance = { scale = { 0.21 0.005 } position = { 0.33 0.46 } }		
-		instance = { scale = { 0.005 0.42 } position = { 0.33 0.475 } }			
-	}		
+
 	textured_emblem = {
-		texture = "te_vytis.dds"
-		instance = { scale = { 0.18 0.21 } position = { 0.382 0.365 } }
-		instance = { scale = { 0.18 0.21 } position = { 0.275 0.565 } }		
-	}	
-	colored_emblem = {
-		texture = "ce_eagle_crown.dds"
-		color1 = "white"
-		color2 = "yellow"
-		instance = { scale = { 0.2 0.22 } position = { 0.275 0.36 } }	
-		instance = { scale = { 0.2 0.22 } position = { 0.385 0.56 } }			
-	}	
-	textured_emblem = {
-		texture = "te_crown_cut.dds"
-		instance = { scale = { 0.35 0.35 } position = { 0.33 0.18 } }
-	}	
+		texture = "te_coa_PLC.dds"
+		instance = { scale = { 1.00 1.00 } position = { 0.5 0.5 } }
+	}
 }
 
 PNI = {
