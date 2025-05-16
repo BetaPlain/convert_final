@@ -10352,7 +10352,7 @@ X60 = {
 	tier = kingdom
 	cultures = { french }
 	religion = catholic
-	capital = STATE_HOLLAND
+	capital = STATE_WALLONIA
 }
 
 X61 = {

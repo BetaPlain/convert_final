@@ -12513,32 +12513,12 @@
 			create_pop = {
 				culture = shona
 				religion = animist
-				size = 190644
-			}
-			create_pop = {
-				culture = shona
-				religion = animist
-				size = 1546
-			}
-			create_pop = {
-				culture = shona
-				religion = catholic
-				size = 131303
-			}
-			create_pop = {
-				culture = shona
-				religion = catholic
-				size = 1064
+				size = 30644
 			}
 			create_pop = {
 				culture = french
 				religion = catholic
-				size = 239544
-			}
-			create_pop = {
-				culture = french
-				religion = catholic
-				size = 1942
+				size = 31942
 			}
 		}
 	}
@@ -16497,6 +16477,16 @@
 			create_pop = {
 				culture = greek
 				religion = orthodox
+				size = 703839
+			}
+			create_pop = {
+				culture = sephardic
+				religion = jewish
+				size = 875
+			}
+			create_pop = {
+				culture = greek
+				religion = orthodox
 				size = 669503
 			}
 			create_pop = {
@@ -16546,17 +16536,7 @@
 			create_pop = {
 				culture = greek
 				religion = orthodox
-				size = 503839
-			}
-			create_pop = {
-				culture = sephardic
-				religion = jewish
-				size = 875
-			}
-			create_pop = {
-				culture = greek
-				religion = orthodox
-				size = 343527
+				size = 143527
 			}
 			create_pop = {
 				culture = sephardic
@@ -24434,33 +24414,8 @@
 		region_state:X60 = {
 			create_pop = {
 				culture = bedouin
-				religion = sunni
-				size = 165118
-			}
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 10412
-			}
-			create_pop = {
-				culture = bedouin
-				religion = orthodox
-				size = 114970
-			}
-			create_pop = {
-				culture = bedouin
-				religion = orthodox
-				size = 7250
-			}
-			create_pop = {
-				culture = bedouin
 				religion = catholic
-				size = 200155
-			}
-			create_pop = {
-				culture = bedouin
-				religion = catholic
-				size = 12621
+				size = 100155
 			}
 			create_pop = {
 				culture = sephardic
@@ -24471,103 +24426,13 @@
 		region_state:X63 = {
 			create_pop = {
 				culture = bedouin
-				religion = sunni
-				size = 191069
-			}
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 12048
-			}
-			create_pop = {
-				culture = bedouin
-				religion = orthodox
-				size = 224276
-			}
-			create_pop = {
-				culture = bedouin
-				religion = orthodox
-				size = 14143
+				religion = catholic
+				size = 100155
 			}
 			create_pop = {
 				culture = sephardic
 				religion = jewish
-				size = 33
-			}
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 134412
-			}
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 8476
-			}
-			create_pop = {
-				culture = bedouin
-				religion = shiite
-				size = 135562
-			}
-			create_pop = {
-				culture = bedouin
-				religion = shiite
-				size = 8548
-			}
-			create_pop = {
-				culture = sephardic
-				religion = jewish
-				size = 21
-			}
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 142201
-			}
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 8967
-			}
-			create_pop = {
-				culture = bedouin
-				religion = orthodox
-				size = 143349
-			}
-			create_pop = {
-				culture = bedouin
-				religion = orthodox
-				size = 9039
-			}
-			create_pop = {
-				culture = sephardic
-				religion = jewish
-				size = 23
-			}
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 77565
-			}
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 4891
-			}
-			create_pop = {
-				culture = bedouin
-				religion = orthodox
-				size = 78189
-			}
-			create_pop = {
-				culture = bedouin
-				religion = orthodox
-				size = 4931
-			}
-			create_pop = {
-				culture = sephardic
-				religion = jewish
-				size = 12
+				size = 38
 			}
 		}
 	}
@@ -28974,6 +28839,11 @@
 	}
 	s:STATE_KANDAHAR = {
 		region_state:PER = {
+			create_pop = {
+				culture = ashkenazi
+				religion = jewish
+				size = 410006
+			}
 			create_pop = {
 				culture = pashtun
 				religion = sunni
@@ -68196,6 +68066,11 @@
 	s:STATE_WALLONIA = {
 		region_state:X60 = {
 			create_pop = {
+				culture = french
+				religion = catholic
+				size = 466000
+			}
+			create_pop = {
 				culture = dutch
 				religion = catholic
 				size = 423313
@@ -68223,7 +68098,7 @@
 			create_pop = {
 				culture = ashkenazi
 				religion = jewish
-				size = 46
+				size = 410006
 			}
 			create_pop = {
 				culture = ashkenazi
