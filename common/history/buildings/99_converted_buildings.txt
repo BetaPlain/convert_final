@@ -8311,17 +8311,6 @@
 		}
 		region_state:X60 = {
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X60
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
 					building = {
@@ -16729,17 +16718,6 @@
 		}
 		region_state:X60 = {
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X60
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_naval_base"
 				add_ownership = {
 					country = {
@@ -17088,17 +17066,6 @@
 			}
 		}
 		region_state:X60 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X60
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
 			create_building = {
 				building = "building_rye_farm"
 				add_ownership = {
@@ -18565,17 +18532,6 @@
 			}
 		}
 		region_state:X60 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X60
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
@@ -23573,17 +23529,6 @@
 	s:STATE_LINDI = {
 		region_state:X60 = {
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X60
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
@@ -23754,6 +23699,17 @@
 	}
 	s:STATE_LORRAINE = {
 		region_state:X60 = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:X60
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
 			create_building = {
 				building = "building_construction_sector"
 				add_ownership = {
@@ -44544,6 +44500,17 @@
 	s:STATE_WALLONIA = {
 		region_state:X60 = {
 			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X60
+						levels = 14
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
@@ -44619,7 +44586,7 @@
 				add_ownership = {
 					country = {
 						country = c:X60
-						levels = 4
+						levels = 14
 					}
 				}
 				reserves = 1
@@ -45424,17 +45391,6 @@
 			}
 		}
 		region_state:X60 = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X60
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
 			create_building = {
 				building = "building_vineyard_plantation"
 				add_ownership = {
