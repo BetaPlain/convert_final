@@ -28,7 +28,7 @@ STATE_TIANSHAN = {
     farm = "x1C00F2"
     mine = "x67149A"
     wood = "x8A8795"
-    arable_land = 80
+    arable_land = 200
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" "bg_cotton_plantations" }
 }
 
@@ -135,7 +135,7 @@ STATE_HINGGAN = {
     farm = "xE61212"
     mine = "x7D03D7"
     wood = "x356F29"
-    arable_land = 204
+    arable_land = 284
     arable_resources = { "bg_wheat_farms" "bg_livestock_ranches" }
     capped_resources = {
         bg_iron_mining = 36

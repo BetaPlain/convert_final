@@ -82,7 +82,7 @@
 			religion = rel:shiite
 			birth_date = 1772.1.13
 			traits = {
-				cruel experienced_political_operator 
+				experienced_political_operator 
 			}
 			on_created = {
 				set_variable = is_married
