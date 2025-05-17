@@ -16669,17 +16669,6 @@
 			}
 		}
 		region_state:PER = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:PER
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
 		}
 		region_state:X60 = {
 			create_building = {
@@ -16777,6 +16766,17 @@
 						region = STATE_HENAN
 					}
 				}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:PER
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
 				add_ownership = {
 					building = {
 						type = building_financial_district
@@ -17969,6 +17969,17 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:PER
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 		}
 		region_state:PER = {
@@ -19431,6 +19442,17 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_no_organization" }
+			}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:PER
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
 				building = "building_cotton_plantation"
@@ -36820,6 +36842,17 @@
 				activate_production_methods = { "pm_no_secondary" }
 			}
 			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:PER
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -36886,6 +36919,17 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:PER
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}	
 			create_building = {
 				building = "building_tea_plantation"
 				add_ownership = {
@@ -38152,6 +38196,17 @@
 				activate_production_methods = { }
 			}
 			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:PER
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+			create_building = {
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
@@ -38193,6 +38248,17 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
+			}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:PER
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
 				building = "building_wheat_farm"
@@ -39333,6 +39399,17 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:PER
+						levels = 10
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
 				building = "building_rice_farm"
@@ -43348,6 +43425,17 @@
 						country = c:PER
 						levels = 2
 						region = STATE_UZBEKIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:PER
+						levels = 3
 					}
 				}
 				reserves = 1
