@@ -8235,7 +8235,7 @@
 				add_ownership = {
 					country = {
 						country = c:HND
-						levels = 19
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -11682,17 +11682,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_university"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_furniture_manufacturies"
 				add_ownership = {
 					building = {
@@ -12467,19 +12456,6 @@
 		}
 	}
 	s:STATE_EAST_SAHARA = {
-		region_state:SPA = {
-			create_building = {
-				building = "building_university"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-		}
 	}
 	s:STATE_EAST_SLOVAKIA = {
 		region_state:HRE = {
@@ -14117,17 +14093,6 @@
 	}
 	s:STATE_GABON = {
 		region_state:SPA = {
-			create_building = {
-				building = "building_university"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
 			create_building = {
 				building = "building_cotton_plantation"
 				add_ownership = {
@@ -17760,6 +17725,17 @@
 				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:GBR
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
@@ -18122,7 +18098,7 @@
 				add_ownership = {
 					country = {
 						country = c:HND
-						levels = 127
+						levels = 40
 					}
 				}
 				reserves = 1
@@ -20488,17 +20464,6 @@
 	}
 	s:STATE_KASAI = {
 		region_state:SPA = {
-			create_building = {
-				building = "building_university"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
 			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
@@ -23700,6 +23665,17 @@
 	s:STATE_LORRAINE = {
 		region_state:X60 = {
 			create_building = {
+				building = "building_university"
+				add_ownership = {
+					country = {
+						country = c:X84
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
 				building = "building_government_administration"
 				add_ownership = {
 					country = {
@@ -24471,7 +24447,7 @@
 				add_ownership = {
 					country = {
 						country = c:HND
-						levels = 142
+						levels = 32
 					}
 				}
 				reserves = 1
@@ -30012,17 +29988,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:GBR
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 		}
 		region_state:SPA = {
@@ -35606,17 +35571,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_forest_glass" }
-			}
-			create_building = {
-				building = "building_university"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 		}
 	}
@@ -44500,11 +44454,22 @@
 	s:STATE_WALLONIA = {
 		region_state:X60 = {
 			create_building = {
+				building = "building_university"
+				add_ownership = {
+					country = {
+						country = c:X84
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
 				building = "building_construction_sector"
 				add_ownership = {
 					country = {
 						country = c:X60
-						levels = 14
+						levels = 18
 					}
 				}
 				reserves = 1

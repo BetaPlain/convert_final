@@ -119,7 +119,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:ARP = {
@@ -198,7 +198,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:B14 = {
@@ -269,7 +269,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:BLE = {
@@ -387,7 +387,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:BOB = {
@@ -469,7 +469,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:BRN = {
@@ -485,37 +485,64 @@
 		activate_law = law_type:law_debt_slavery
 	}
 	c:BRZ = {
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
-		add_technology_researched = artillery
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = cotton_gin
-		add_technology_researched = currency_standards
-		add_technology_researched = democracy
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = enclosure
-		add_technology_researched = gunsmithing
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
 		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = military_drill
-		add_technology_researched = napoleonic_warfare
-		add_technology_researched = navigation
-		add_technology_researched = paddle_steamer
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
 		activate_law = law_type:law_hereditary_bureaucrats
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_colonial_resettlement
@@ -551,7 +578,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:BST = {
@@ -567,44 +594,64 @@
 		activate_law = law_type:law_debt_slavery
 	}
 	c:BYZ = {
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
-		add_technology_researched = artillery
-		add_technology_researched = banking
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = currency_standards
-		add_technology_researched = democracy
-		add_technology_researched = dialectics
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = egalitarianism
-		add_technology_researched = empiricism
-		add_technology_researched = enclosure
-		add_technology_researched = gunsmithing
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
 		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = mass_communication
-		add_technology_researched = medical_degrees
-		add_technology_researched = military_drill
-		add_technology_researched = napoleonic_warfare
-		add_technology_researched = navigation
-		add_technology_researched = paddle_steamer
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = romanticism
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = stock_exchange
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
 		activate_law = law_type:law_appointed_bureaucrats
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_census_voting
@@ -644,7 +691,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:C02 = {
@@ -727,7 +774,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:CHK = {
@@ -774,7 +821,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:DA0 = {
@@ -964,7 +1011,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:EI1 = {
@@ -974,48 +1021,64 @@
 		activate_law = law_type:law_debt_slavery
 	}
 	c:ETH = {
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
-		add_technology_researched = artillery
-		add_technology_researched = banking
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = cotton_gin
-		add_technology_researched = currency_standards
-		add_technology_researched = democracy
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = empiricism
-		add_technology_researched = enclosure
-		add_technology_researched = general_staff
-		add_technology_researched = gunsmithing
-		add_technology_researched = intensive_agriculture
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
-		add_technology_researched = lathe
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
 		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = mass_communication
-		add_technology_researched = mechanical_tools
-		add_technology_researched = medical_degrees
-		add_technology_researched = military_drill
-		add_technology_researched = napoleonic_warfare
-		add_technology_researched = navigation
-		add_technology_researched = paddle_steamer
-		add_technology_researched = percussion_cap
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = romanticism
-		add_technology_researched = screw_frigate
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
 		activate_law = law_type:law_appointed_bureaucrats
 		activate_law = law_type:law_autocracy
 		activate_law = law_type:law_censorship
@@ -1051,7 +1114,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:FNG = {
@@ -1073,26 +1136,64 @@
 		activate_law = law_type:law_debt_slavery
 	}
 	c:GBR = {
-		add_technology_researched = admiralty
-		add_technology_researched = artillery
-		add_technology_researched = centralization
-		add_technology_researched = democracy
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = enclosure
-		add_technology_researched = gunsmithing
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
-		add_technology_researched = manufacturies
-		add_technology_researched = military_drill
-		add_technology_researched = navigation
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urbanization
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
+		add_technology_researched = law_enforcement
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
 		activate_law = law_type:law_wealth_voting
 		activate_law = law_type:law_appointed_bureaucrats
 		activate_law = law_type:law_laissez_faire
@@ -1118,6 +1219,10 @@
 			remove_ideology = ideology_republican
  			add_ideology = ideology_constitutionalist
  		}
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 1
+		}
 	}
 	c:GGO = {
 		effect_native_conscription_3 = yes
@@ -1259,58 +1364,68 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:HRE = {
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
-		add_technology_researched = artillery
-		add_technology_researched = atmospheric_engine
-		add_technology_researched = banking
-		add_technology_researched = central_archives
-		add_technology_researched = central_banking
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = cotton_gin
-		add_technology_researched = currency_standards
-		add_technology_researched = democracy
-		add_technology_researched = dialectics
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = egalitarianism
-		add_technology_researched = empiricism
-		add_technology_researched = enclosure
-		add_technology_researched = general_staff
-		add_technology_researched = gunsmithing
-		add_technology_researched = intensive_agriculture
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
-		add_technology_researched = lathe
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
 		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = mass_communication
-		add_technology_researched = mechanical_tools
-		add_technology_researched = medical_degrees
-		add_technology_researched = military_drill
-		add_technology_researched = napoleonic_warfare
-		add_technology_researched = navigation
-		add_technology_researched = paddle_steamer
-		add_technology_researched = percussion_cap
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = romanticism
-		add_technology_researched = screw_frigate
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = stock_exchange
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
 		activate_law = law_type:law_charitable_health_system
 		activate_law = law_type:law_colonial_exploitation
 		activate_law = law_type:law_cultural_exclusion
@@ -1324,13 +1439,13 @@
 		activate_law = law_type:law_no_social_security
 		activate_law = law_type:law_no_womens_rights
 		activate_law = law_type:law_no_workers_rights
-		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_parliamentary_republic
 		activate_law = law_type:law_per_capita_based_taxation
 		activate_law = law_type:law_professional_army
 		activate_law = law_type:law_public_schools
 		activate_law = law_type:law_right_of_assembly
 		activate_law = law_type:law_slavery_banned
-		activate_law = law_type:law_freedom_of_conscience
+		activate_law = law_type:law_state_religion
 		activate_law = law_type:law_tenant_farmers
 		ig:ig_landowners = {
 			add_ideology = ideology_dummy_pious_01
@@ -1353,7 +1468,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:HRO = {
@@ -1435,7 +1550,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:IN1 = {
@@ -1765,7 +1880,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:KBD = {
@@ -1945,7 +2060,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:LAN = {
@@ -1997,7 +2112,7 @@
 		activate_law = law_type:law_no_workers_rights
 		activate_law = law_type:law_parliamentary_republic
 		activate_law = law_type:law_professional_army
-		activate_law = law_type:law_religious_schools
+		activate_law = law_type:law_private_schools
 		activate_law = law_type:law_cultural_exclusion
 		activate_law = law_type:law_slavery_banned
 		activate_law = law_type:law_state_religion
@@ -2012,10 +2127,6 @@
 		set_institution_investment_level = {
 			institution = institution_police
 			level = 1
-		}
-		set_institution_investment_level = {
-			institution = institution_schools
-			level = 3
 		}
 	}
 	c:LAO = {
@@ -2230,7 +2341,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:M22 = {
@@ -2276,47 +2387,64 @@
 		activate_law = law_type:law_debt_slavery
 	}
 	c:MAL = {
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
-		add_technology_researched = artillery
-		add_technology_researched = banking
-		add_technology_researched = central_archives
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = currency_standards
-		add_technology_researched = democracy
-		add_technology_researched = dialectics
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = egalitarianism
-		add_technology_researched = empiricism
-		add_technology_researched = enclosure
-		add_technology_researched = gunsmithing
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
 		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = mass_communication
-		add_technology_researched = medical_degrees
-		add_technology_researched = military_drill
-		add_technology_researched = napoleonic_warfare
-		add_technology_researched = navigation
-		add_technology_researched = paddle_steamer
-		add_technology_researched = percussion_cap
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = romanticism
-		add_technology_researched = screw_frigate
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = stock_exchange
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
 		activate_law = law_type:law_appointed_bureaucrats
 		activate_law = law_type:law_census_voting
 		activate_law = law_type:law_freedom_of_conscience
@@ -2347,20 +2475,64 @@
 		activate_law = law_type:law_debt_slavery
 	}
 	c:MEX = {
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = democracy
-		add_technology_researched = enclosure
-		add_technology_researched = gunsmithing
-		add_technology_researched = international_relations
-		add_technology_researched = manufacturies
-		add_technology_researched = military_drill
-		add_technology_researched = navigation
-		add_technology_researched = rationalism
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urbanization
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
+		add_technology_researched = law_enforcement
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
 		activate_law = law_type:law_appointed_bureaucrats
 		activate_law = law_type:law_colonial_resettlement
 		activate_law = law_type:law_debt_slavery
@@ -2473,7 +2645,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:MRN = {
@@ -2735,7 +2907,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:PER = {
@@ -2790,7 +2962,7 @@
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_racial_segregation
 		activate_law = law_type:law_no_home_affairs
-		activate_law = law_type:law_migration_controls
+		activate_law = law_type:law_no_migration_controls
 		activate_law = law_type:law_no_workers_rights
 		activate_law = law_type:law_professional_army
 		activate_law = law_type:law_land_based_taxation
@@ -2814,7 +2986,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 		set_institution_investment_level = {
 			institution = institution_social_security
@@ -2881,51 +3053,68 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:PLC = {
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
-		add_technology_researched = artillery
-		add_technology_researched = banking
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = cotton_gin
-		add_technology_researched = currency_standards
-		add_technology_researched = democracy
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = empiricism
-		add_technology_researched = enclosure
-		add_technology_researched = general_staff
-		add_technology_researched = gunsmithing
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
 		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = mass_communication
-		add_technology_researched = medical_degrees
-		add_technology_researched = military_drill
-		add_technology_researched = napoleonic_warfare
-		add_technology_researched = navigation
-		add_technology_researched = paddle_steamer
-		add_technology_researched = percussion_cap
-		add_technology_researched = power_of_the_purse
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = romanticism
-		add_technology_researched = screw_frigate
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = stock_exchange
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
 		activate_law = law_type:law_interventionism
 		activate_law = law_type:law_oligarchy
 		activate_law = law_type:law_right_of_assembly
@@ -2957,7 +3146,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:PPU = {
@@ -3015,35 +3204,64 @@
 		activate_law = law_type:law_debt_slavery
 	}
 	c:SCA = {
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
-		add_technology_researched = artillery
-		add_technology_researched = centralization
-		add_technology_researched = currency_standards
-		add_technology_researched = democracy
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = enclosure
-		add_technology_researched = gunsmithing
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
 		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = military_drill
-		add_technology_researched = napoleonic_warfare
-		add_technology_researched = navigation
-		add_technology_researched = paddle_steamer
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
 		activate_law = law_type:law_autocracy
 		activate_law = law_type:law_no_migration_controls
 		activate_law = law_type:law_hereditary_bureaucrats
@@ -3075,7 +3293,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:SD1 = {
@@ -3204,7 +3422,7 @@
 		activate_law = law_type:law_slavery_banned
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:SIL = {
@@ -3280,7 +3498,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:SLS = {
@@ -3332,48 +3550,64 @@
 		activate_law = law_type:law_debt_slavery
 	}
 	c:SPA = {
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
-		add_technology_researched = artillery
-		add_technology_researched = banking
-		add_technology_researched = central_archives
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = currency_standards
-		add_technology_researched = democracy
-		add_technology_researched = dialectics
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = egalitarianism
-		add_technology_researched = empiricism
-		add_technology_researched = enclosure
-		add_technology_researched = general_staff
-		add_technology_researched = gunsmithing
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
 		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = mass_communication
-		add_technology_researched = medical_degrees
-		add_technology_researched = military_drill
-		add_technology_researched = napoleonic_warfare
-		add_technology_researched = navigation
-		add_technology_researched = paddle_steamer
-		add_technology_researched = percussion_cap
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = romanticism
-		add_technology_researched = screw_frigate
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = stock_exchange
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
 		activate_law = law_type:law_oligarchy
 		activate_law = law_type:law_closed_borders
 		activate_law = law_type:law_appointed_bureaucrats
@@ -3411,7 +3645,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:T01 = {
@@ -3520,54 +3754,64 @@
 		activate_law = law_type:law_debt_slavery
 	}
 	c:TUS = {
-		add_technology_researched = academia
-		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
-		add_technology_researched = artillery
-		add_technology_researched = atmospheric_engine
-		add_technology_researched = banking
-		add_technology_researched = central_archives
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = cotton_gin
-		add_technology_researched = currency_standards
-		add_technology_researched = democracy
-		add_technology_researched = dialectics
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = egalitarianism
-		add_technology_researched = empiricism
-		add_technology_researched = enclosure
-		add_technology_researched = general_staff
-		add_technology_researched = gunsmithing
-		add_technology_researched = intensive_agriculture
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
-		add_technology_researched = lathe
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
 		add_technology_researched = law_enforcement
-		add_technology_researched = line_infantry
-		add_technology_researched = mandatory_service
-		add_technology_researched = manufacturies
-		add_technology_researched = mass_communication
-		add_technology_researched = mechanical_tools
-		add_technology_researched = medical_degrees
-		add_technology_researched = military_drill
-		add_technology_researched = napoleonic_warfare
-		add_technology_researched = navigation
-		add_technology_researched = paddle_steamer
-		add_technology_researched = percussion_cap
-		add_technology_researched = prospecting
-		add_technology_researched = railways
-		add_technology_researched = rationalism
-		add_technology_researched = romanticism
-		add_technology_researched = screw_frigate
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = steelworking
-		add_technology_researched = stock_exchange
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urban_planning
-		add_technology_researched = urbanization
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
 		activate_law = law_type:law_private_healthcare
 		activate_law = law_type:law_no_migration_controls
 		activate_law = law_type:law_colonial_exploitation
@@ -3614,7 +3858,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:TWT = {
@@ -3667,22 +3911,64 @@
 		activate_law = law_type:law_debt_slavery
 	}
 	c:USA = {
-		add_technology_researched = centralization
-		add_technology_researched = colonization
-		add_technology_researched = democracy
-		add_technology_researched = drydocks
-		add_technology_researched = enclosure
-		add_technology_researched = gunsmithing
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
-		add_technology_researched = manufacturies
-		add_technology_researched = military_drill
-		add_technology_researched = navigation
-		add_technology_researched = rationalism
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urbanization
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
+		add_technology_researched = law_enforcement
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
 		activate_law = law_type:law_colonial_resettlement
 		activate_law = law_type:law_cultural_exclusion
 		activate_law = law_type:law_elected_bureaucrats
@@ -3711,6 +3997,10 @@
 		set_institution_investment_level = {
 			institution = institution_police
 			level = 1
+		}
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
 		}
 	}
 	c:UT1 = {
@@ -3802,7 +4092,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:W07 = {
@@ -3928,7 +4218,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:W32 = {
@@ -4010,7 +4300,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:W34 = {
@@ -4160,7 +4450,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:WAS = {
@@ -4226,7 +4516,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:WIN = {
@@ -4514,7 +4804,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X15 = {
@@ -4680,7 +4970,7 @@
 		activate_law = law_type:law_tenant_farmers
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X32 = {
@@ -4753,7 +5043,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X37 = {
@@ -4906,7 +5196,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X45 = {
@@ -4970,7 +5260,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X46 = {
@@ -5033,7 +5323,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X47 = {
@@ -5216,7 +5506,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X50 = {
@@ -5281,7 +5571,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X53 = {
@@ -5359,7 +5649,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X57 = {
@@ -5468,57 +5758,102 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X60 = {
-		add_technology_researched = admiralty
-		add_technology_researched = artillery
-		add_technology_researched = centralization
-		add_technology_researched = democracy
-		add_technology_researched = distillation
-		add_technology_researched = drydocks
-		add_technology_researched = enclosure
-		add_technology_researched = gunsmithing
-		add_technology_researched = international_relations
-		add_technology_researched = international_trade
-		add_technology_researched = manufacturies
-		add_technology_researched = military_drill
-		add_technology_researched = navigation
-		add_technology_researched = prospecting
-		add_technology_researched = rationalism
-		add_technology_researched = shaft_mining
-		add_technology_researched = standing_army
-		add_technology_researched = tech_bureaucracy
-		add_technology_researched = urbanization
-		activate_law = law_type:law_autocracy
-		activate_law = law_type:law_no_migration_controls
-		activate_law = law_type:law_appointed_bureaucrats
-		activate_law = law_type:law_land_based_taxation
-		activate_law = law_type:law_local_police
-		activate_law = law_type:law_protectionism
-		activate_law = law_type:law_monarchy
-		activate_law = law_type:law_racial_segregation
-		activate_law = law_type:law_colonial_resettlement
-		activate_law = law_type:law_no_health_system
+		add_technology_researched = field_works
+		add_technology_researched = canneries
+		add_technology_researched = mechanized_workshops
+		add_technology_researched = nationalism
+		add_technology_researched = pharmaceuticals
+        add_technology_researched = hydraulic_cranes
+        add_technology_researched = railways
+		add_technology_researched = logistics
+		add_technology_researched = triage
+        add_technology_researched = academia
+        add_technology_researched = admiralty
+        add_technology_researched = army_reserves
+        add_technology_researched = artillery
+        add_technology_researched = atmospheric_engine
+        add_technology_researched = banking
+        add_technology_researched = central_archives
+        add_technology_researched = central_banking
+        add_technology_researched = centralization
+        add_technology_researched = colonization
+        add_technology_researched = cotton_gin
+        add_technology_researched = currency_standards
+        add_technology_researched = democracy
+        add_technology_researched = dialectics
+        add_technology_researched = distillation
+        add_technology_researched = drydocks
+        add_technology_researched = egalitarianism
+        add_technology_researched = empiricism
+        add_technology_researched = enclosure
+        add_technology_researched = general_staff
+        add_technology_researched = gunsmithing
+        add_technology_researched = intensive_agriculture
+        add_technology_researched = international_relations
+        add_technology_researched = international_trade
+        add_technology_researched = lathe
+		add_technology_researched = law_enforcement
+        add_technology_researched = line_infantry
+        add_technology_researched = mandatory_service
+        add_technology_researched = manufacturies
+        add_technology_researched = mass_communication
+        add_technology_researched = mechanical_tools
+        add_technology_researched = medical_degrees
+        add_technology_researched = military_drill
+        add_technology_researched = napoleonic_warfare
+        add_technology_researched = navigation
+        add_technology_researched = paddle_steamer
+        add_technology_researched = percussion_cap
+        add_technology_researched = power_of_the_purse
+        add_technology_researched = prospecting
+        add_technology_researched = rationalism
+        add_technology_researched = romanticism
+        add_technology_researched = screw_frigate
+        add_technology_researched = shaft_mining
+        add_technology_researched = standing_army
+        add_technology_researched = steelworking
+        add_technology_researched = stock_exchange
+        add_technology_researched = tech_bureaucracy
+        add_technology_researched = urban_planning
+        add_technology_researched = urbanization
+        activate_law = law_type:law_migration_controls
+        activate_law = law_type:law_freedom_of_conscience
+        activate_law = law_type:law_hereditary_bureaucrats
+        activate_law = law_type:law_land_based_taxation
+        activate_law = law_type:law_no_police
+        activate_law = law_type:law_public_schools
+        activate_law = law_type:law_mercantilism
+        activate_law = law_type:law_monarchy
 		activate_law = law_type:law_national_guard
-		activate_law = law_type:law_public_schools
-		activate_law = law_type:law_no_social_security
-		activate_law = law_type:law_no_womens_rights
-		activate_law = law_type:law_no_workers_rights
-		activate_law = law_type:law_professional_army
-		activate_law = law_type:law_censorship
-		activate_law = law_type:law_tenant_farmers
-		activate_law = law_type:law_slave_trade
-		activate_law = law_type:law_freedom_of_conscience
-		activate_law = law_type:law_interventionism
-		set_ruling_interest_groups = {
-			ig_industrialists 
-		}
-		set_institution_investment_level = {
-			institution = institution_police
-			level = 1
-		}
+        activate_law = law_type:law_professional_army
+        activate_law = law_type:law_racial_segregation
+        activate_law = law_type:law_no_colonial_affairs
+        activate_law = law_type:law_no_health_system
+        activate_law = law_type:law_no_social_security
+        activate_law = law_type:law_no_womens_rights
+        activate_law = law_type:law_no_workers_rights
+        activate_law = law_type:law_autocracy
+        activate_law = law_type:law_right_of_assembly
+        activate_law = law_type:law_commercialized_agriculture
+        activate_law = law_type:law_slavery_banned
+        activate_law = law_type:law_state_religion
+        activate_law = law_type:law_interventionism
+        set_institution_investment_level = {
+            institution = institution_home_affairs
+            level = 1
+        }
+        set_institution_investment_level = {
+            institution = institution_police
+            level = 1
+        }
+        set_institution_investment_level = {
+            institution = institution_schools
+            level = 1
+        }
 	}
 	c:X61 = {
 		add_technology_researched = academia
@@ -5594,7 +5929,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X63 = {
@@ -5673,7 +6008,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X64 = {
@@ -5775,7 +6110,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X72 = {
@@ -5843,7 +6178,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X75 = {
@@ -6036,7 +6371,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X87 = {
@@ -6115,7 +6450,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X88 = {
@@ -6224,7 +6559,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:X98 = {
@@ -6298,7 +6633,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:XHO = {
@@ -6418,7 +6753,7 @@
 		}
 		set_institution_investment_level = {
 			institution = institution_schools
-			level = 3
+			level = 1
 		}
 	}
 	c:ZND = {
