@@ -32,6 +32,12 @@
 			type = puppet
 		}
 	}
+	c:SPA = {
+		create_diplomatic_pact = {
+			country = c:MEX
+			type = protectorate
+		}
+	}
 	c:BRD = {
 		add_liberty_desire = -29.233
 	}

@@ -1601,9 +1601,11 @@
 		activate_law = law_type:law_traditionalism
 	}
 	c:JAP = {
+		add_technology_researched = steelworking
+		add_technology_researched = line_infantry
+		add_technology_researched = mandatory_service
 		add_technology_researched = academia
 		add_technology_researched = admiralty
-		add_technology_researched = army_reserves
 		add_technology_researched = artillery
 		add_technology_researched = colonization
 		add_technology_researched = democracy
@@ -2910,6 +2912,7 @@
 		}
 	}
 	c:PER = {
+		add_technology_researched = currency_standards
 		add_technology_researched = academia
 		add_technology_researched = admiralty
 		add_technology_researched = army_reserves
@@ -2922,7 +2925,6 @@
 		add_technology_researched = drydocks
 		add_technology_researched = enclosure
 		add_technology_researched = gunsmithing
-		add_technology_researched = intensive_agriculture
 		add_technology_researched = international_relations
 		add_technology_researched = international_trade
 		add_technology_researched = lathe
@@ -5844,7 +5846,7 @@
 		add_technology_researched = realism
         activate_law = law_type:law_migration_controls
         activate_law = law_type:law_freedom_of_conscience
-        activate_law = law_type:law_hereditary_bureaucrats
+        activate_law = law_type:law_appointed_bureaucrats
         activate_law = law_type:law_land_based_taxation
         activate_law = law_type:law_no_police
         activate_law = law_type:law_public_schools
@@ -5855,13 +5857,14 @@
         activate_law = law_type:law_racial_segregation
         activate_law = law_type:law_no_colonial_affairs
         activate_law = law_type:law_no_health_system
+		activate_law = law_type:law_protectionism
         activate_law = law_type:law_no_social_security
         activate_law = law_type:law_no_womens_rights
         activate_law = law_type:law_no_workers_rights
         activate_law = law_type:law_autocracy
         activate_law = law_type:law_right_of_assembly
         activate_law = law_type:law_commercialized_agriculture
-        activate_law = law_type:law_slavery_banned
+        activate_law = law_type:law_slave_trade
         activate_law = law_type:law_state_religion
         activate_law = law_type:law_interventionism
         set_institution_investment_level = {
