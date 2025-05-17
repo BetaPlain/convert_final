@@ -9017,7 +9017,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 203
+						levels = 103
 					}
 				}
 				reserves = 1
@@ -17501,6 +17501,17 @@
 		}
 	}
 	s:STATE_HOKKAIDO = {
+		create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 100
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_vertical_filing_cabinets" }
+			}
 		region_state:JAP = {
 			create_building = {
 				building = "building_fishing_wharf"
@@ -20300,7 +20311,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 166
+						levels = 66
 					}
 				}
 				reserves = 1
@@ -22345,7 +22356,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 145
+						levels = 45
 					}
 				}
 				reserves = 1
@@ -23669,7 +23680,7 @@
 				add_ownership = {
 					country = {
 						country = c:X84
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -23680,7 +23691,7 @@
 				add_ownership = {
 					country = {
 						country = c:X60
-						levels = 10
+						levels = 5
 					}
 				}
 				reserves = 1
@@ -34120,6 +34131,17 @@
 		}
 	}
 	s:STATE_PYONGYANG = {
+		create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 66
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_vertical_filing_cabinets" }
+			}
 		region_state:JAP = {
 			create_building = {
 				building = "building_fishing_wharf"
@@ -39593,7 +39615,7 @@
 				add_ownership = {
 					country = {
 						country = c:PER
-						levels = 9
+						levels = 19
 					}
 				}
 				reserves = 1
@@ -43404,7 +43426,7 @@
 				add_ownership = {
 					country = {
 						country = c:PER
-						levels = 9
+						levels = 19
 					}
 				}
 				reserves = 1
@@ -44454,11 +44476,22 @@
 	s:STATE_WALLONIA = {
 		region_state:X60 = {
 			create_building = {
+				building = "building_railway"
+				add_ownership = {
+					country = {
+						country = c:X60
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_general_training" }
+			}
+			create_building = {
 				building = "building_university"
 				add_ownership = {
 					country = {
 						country = c:X84
-						levels = 2
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -44551,7 +44584,7 @@
 				add_ownership = {
 					country = {
 						country = c:X60
-						levels = 14
+						levels = 19
 					}
 				}
 				reserves = 1
@@ -46297,6 +46330,17 @@
 	}
 	s:STATE_YANGHO = {
 		region_state:JAP = {
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 66
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_vertical_filing_cabinets" }
+			}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
