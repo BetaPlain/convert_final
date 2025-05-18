@@ -225,7 +225,7 @@
 				add_ownership = {
 					country = {
 						country = c:LAN
-						levels = 121
+						levels = 20
 					}
 				}
 				reserves = 1
@@ -8160,6 +8160,17 @@
 				reserves = 1
 				activate_production_methods = { "pm_basic_port" }
 			}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:LAN
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
 		}
 	}
 	s:STATE_CENTRAL_PROVINCES = {
@@ -9017,7 +9028,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 103
+						levels = 20
 					}
 				}
 				reserves = 1
@@ -9061,6 +9072,17 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_no_naval_theory" }
+			}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_vertical_filing_cabinets" }
 			}
 			create_building = {
 				building = "building_livestock_ranch"
@@ -11950,7 +11972,7 @@
 				add_ownership = {
 					country = {
 						country = c:LAN
-						levels = 144
+						levels = 20
 					}
 				}
 				reserves = 1
@@ -16707,17 +16729,6 @@
 		}
 		region_state:X63 = {
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X63
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
@@ -17527,6 +17538,17 @@
 				activate_production_methods = { }
 			}
 			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_vertical_filing_cabinets" }
+			}
+			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -17969,17 +17991,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_government_administration"
-				add_ownership = {
-					country = {
-						country = c:PER
-						levels = 10
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 		}
 		region_state:PER = {
@@ -19444,17 +19455,6 @@
 				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
-				building = "building_government_administration"
-				add_ownership = {
-					country = {
-						country = c:PER
-						levels = 10
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
@@ -20333,7 +20333,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 66
+						levels = 20
 					}
 				}
 				reserves = 1
@@ -20464,6 +20464,17 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_basic_port" }
+			}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_vertical_filing_cabinets" }
 			}
 		}
 	}
@@ -22389,7 +22400,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 45
+						levels = 20
 					}
 				}
 				reserves = 1
@@ -24250,7 +24261,7 @@
 				add_ownership = {
 					country = {
 						country = c:LAN
-						levels = 122
+						levels = 20
 					}
 				}
 				reserves = 1
@@ -24662,6 +24673,17 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:LAN
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
 				building = "building_rice_farm"
@@ -28169,17 +28191,6 @@
 		}
 		region_state:X63 = {
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:X63
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
@@ -28208,7 +28219,7 @@
 				add_ownership = {
 					country = {
 						country = c:X63
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -28219,7 +28230,7 @@
 				add_ownership = {
 					country = {
 						country = c:X63
-						levels = 6
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -30217,7 +30228,7 @@
 				add_ownership = {
 					country = {
 						country = c:LAN
-						levels = 136
+						levels = 20
 					}
 				}
 				reserves = 1
@@ -30817,7 +30828,7 @@
 				add_ownership = {
 					country = {
 						country = c:LAN
-						levels = 164
+						levels = 20
 					}
 				}
 				reserves = 1
@@ -34164,17 +34175,6 @@
 		}
 	}
 	s:STATE_PYONGYANG = {
-		create_building = {
-				building = "building_government_administration"
-				add_ownership = {
-					country = {
-						country = c:JAP
-						levels = 66
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_vertical_filing_cabinets" }
-			}
 		region_state:JAP = {
 			create_building = {
 				building = "building_fishing_wharf"
@@ -34188,6 +34188,17 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_vertical_filing_cabinets" }
 			}
 			create_building = {
 				building = "building_rice_farm"
@@ -36239,6 +36250,17 @@
 				activate_production_methods = { }
 			}
 			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_vertical_filing_cabinets" }
+			}
+			create_building = {
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
@@ -36787,6 +36809,17 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_vertical_filing_cabinets" }
 			}
 			create_building = {
 				building = "building_silk_plantation"
@@ -41254,6 +41287,17 @@
 				activate_production_methods = { }
 			}
 			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:JAP
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_vertical_filing_cabinets" }
+			}
+			create_building = {
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
@@ -45358,17 +45402,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_government_administration"
-				add_ownership = {
-					country = {
-						country = c:LAN
-						levels = 16
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -45779,6 +45812,17 @@
 				activate_production_methods = { "pm_saw_mills" }
 			}
 			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:LAN
+						levels = 20
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
+			}
+			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
@@ -45807,7 +45851,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAV
-						levels = 1
+						levels = 20
 					}
 				}
 				reserves = 1
@@ -46445,7 +46489,7 @@
 				add_ownership = {
 					country = {
 						country = c:JAP
-						levels = 66
+						levels = 20
 					}
 				}
 				reserves = 1

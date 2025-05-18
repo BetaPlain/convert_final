@@ -69,6 +69,8 @@
 			culture = cu:persian
 			religion = rel:shiite
 			birth_date = 1811.5.3
+			interest_group = ig_devout
+			ideology = ideology_moderate
 			traits = {
 				basic_colonial_administrator meticulous 
 			}
@@ -81,6 +83,8 @@
 			culture = cu:persian
 			religion = rel:shiite
 			birth_date = 1772.1.13
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
 			traits = {
 				experienced_political_operator 
 			}

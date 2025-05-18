@@ -7030,7 +7030,7 @@ PLC = {
 	color = { 219 31 62 }
 	country_type = recognized
 	tier = empire
-	cultures = { polish }
+	cultures = { polish lithuanian ukrainian }
 	religion = catholic
 	capital = STATE_GREATER_POLAND
 }
