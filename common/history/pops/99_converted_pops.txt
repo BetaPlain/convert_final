@@ -1194,69 +1194,6 @@
 				size = 2869
 			}
 		}
-		region_state:DC1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 2078
-			}
-		}
-		region_state:DE2 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 11980
-			}
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 4000
-			}
-		}
-		region_state:DZ1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 3226
-			}
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 323
-			}
-			create_pop = {
-				culture = siouan
-				religion = animist
-				size = 323
-			}
-		}
-		region_state:IRC = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 13254
-			}
-			create_pop = {
-				culture = dakota
-				religion = animist
-				size = 751
-			}
-			create_pop = {
-				culture = siouan
-				religion = animist
-				size = 23951
-			}
-			create_pop = {
-				culture = metis
-				religion = catholic
-				size = 1453
-			}
-			create_pop = {
-				culture = metis
-				religion = catholic
-				size = 660
-			}
-		}
 		region_state:K03 = {
 			create_pop = {
 				culture = nez_perce
@@ -1268,12 +1205,12 @@
 			create_pop = {
 				culture = algonquian
 				religion = animist
-				size = 20459
+				size = 50997
 			}
 			create_pop = {
 				culture = dakota
 				religion = animist
-				size = 114
+				size = 865
 			}
 			create_pop = {
 				culture = algonquian
@@ -1283,7 +1220,7 @@
 			create_pop = {
 				culture = cree
 				religion = animist
-				size = 956
+				size = 5279
 			}
 			create_pop = {
 				culture = muskogean
@@ -1298,7 +1235,7 @@
 			create_pop = {
 				culture = metis
 				religion = catholic
-				size = 2260
+				size = 4373
 			}
 			create_pop = {
 				culture = metis
@@ -1408,7 +1345,7 @@
 			create_pop = {
 				culture = siouan
 				religion = animist
-				size = 135
+				size = 24409
 			}
 			create_pop = {
 				culture = neo-canada_colony-norse
@@ -9126,63 +9063,6 @@
 		}
 	}
 	s:STATE_BRITISH_COLUMBIA = {
-		region_state:DA1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 16038
-			}
-			create_pop = {
-				culture = penutian
-				religion = animist
-				size = 3208
-			}
-			create_pop = {
-				culture = salish
-				religion = animist
-				size = 3208
-			}
-		}
-		region_state:DC1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 2078
-			}
-		}
-		region_state:DZ1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 9146
-			}
-		}
-		region_state:K03 = {
-			create_pop = {
-				culture = nez_perce
-				religion = animist
-				size = 1866
-			}
-			create_pop = {
-				culture = salish
-				religion = animist
-				size = 3529
-			}
-		}
-		region_state:KD1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 14350
-			}
-		}
-		region_state:L04 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 30000
-			}
-		}
 		region_state:LAN = {
 			create_pop = {
 				culture = penutian
@@ -9205,28 +9085,6 @@
 				size = 3580
 			}
 		}
-		region_state:LKT = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 9508
-			}
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 185
-			}
-			create_pop = {
-				culture = dakota
-				religion = animist
-				size = 14855
-			}
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 184
-			}
-		}
 		region_state:SCA = {
 			create_pop = {
 				culture = inuit
@@ -9241,7 +9099,7 @@
 			create_pop = {
 				culture = athabaskan
 				religion = animist
-				size = 9
+				size = 139769
 			}
 			create_pop = {
 				culture = dakota
@@ -9266,7 +9124,7 @@
 			create_pop = {
 				culture = salish
 				religion = animist
-				size = 16178
+				size = 28216
 			}
 			create_pop = {
 				culture = athabaskan
@@ -9281,7 +9139,7 @@
 			create_pop = {
 				culture = dakota
 				religion = animist
-				size = 3789
+				size = 18828
 			}
 			create_pop = {
 				culture = neo-canada_colony-norse
@@ -9316,7 +9174,7 @@
 			create_pop = {
 				culture = penutian
 				religion = animist
-				size = 8696
+				size = 13404
 			}
 			create_pop = {
 				culture = athabaskan
@@ -9499,56 +9357,7 @@
 				size = 10058
 			}
 		}
-		region_state:SD1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 32000
-			}
-		}
-		region_state:SLS = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 6241
-			}
-			create_pop = {
-				culture = salish
-				religion = animist
-				size = 5301
-			}
-		}
-		region_state:T02 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 2000
-			}
-			create_pop = {
-				culture = penutian
-				religion = animist
-				size = 7000
-			}
-		}
-		region_state:T06 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 16500
-			}
-			create_pop = {
-				culture = penutian
-				religion = animist
-				size = 1500
-			}
-		}
-		region_state:TY1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 1714
-			}
-		}
+		
 	}
 	s:STATE_BRITTANY = {
 		region_state:MAL = {
@@ -36385,30 +36194,11 @@
 		}
 	}
 	s:STATE_MANITOBA = {
-		region_state:DE2 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 7787
-			}
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 2600
-			}
-		}
-		region_state:IRC = {
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 7287
-			}
-		}
 		region_state:SCA = {
 			create_pop = {
 				culture = cree
 				religion = animist
-				size = 5352
+				size = 15239
 			}
 			create_pop = {
 				culture = algonquian
@@ -36508,7 +36298,7 @@
 			create_pop = {
 				culture = athabaskan
 				religion = animist
-				size = 12601
+				size = 20388
 			}
 			create_pop = {
 				culture = dakota
@@ -41984,42 +41774,6 @@
 		}
 	}
 	s:STATE_NEWFOUNDLAND = {
-		region_state:N11 = {
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 9455
-			}
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 3545
-			}
-		}
-		region_state:N12 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 216
-			}
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 81
-			}
-		}
-		region_state:S14 = {
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 4118
-			}
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 1765
-			}
-		}
 		region_state:SCA = {
 			create_pop = {
 				culture = algonquian
@@ -42094,7 +41848,7 @@
 			create_pop = {
 				culture = inuit
 				religion = animist
-				size = 4083
+				size = 23263
 			}
 			create_pop = {
 				culture = algonquian
@@ -44749,74 +44503,16 @@
 		}
 	}
 	s:STATE_NORTHWEST_TERRITORIES = {
-		region_state:DC1 = {
+		region_state:SCA = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
-				size = 20078
+				size = 154908
 			}
-		}
-		region_state:DE2 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 22980
-			}
-		}
-		region_state:K04 = {
 			create_pop = {
 				culture = inuit
 				religion = animist
-				size = 25000
-			}
-		}
-		region_state:KD1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 14350
-			}
-		}
-		region_state:KG1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 16000
-			}
-		}
-		region_state:S12 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 14000
-			}
-		}
-		region_state:S13 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 18000
-			}
-		}
-		region_state:SG1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 17500
-			}
-		}
-		region_state:T04 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 28000
-			}
-		}
-		region_state:T05 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 18000
+				size = 39000
 			}
 		}
 	}
@@ -46610,51 +46306,11 @@
 		}
 	}
 	s:STATE_NUNAVUT = {
-		region_state:A05 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 11980
-			}
-		}
-		region_state:DE2 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 11701
-			}
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 3907
-			}
-		}
-		region_state:K05 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 9390
-			}
-		}
-		region_state:N08 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 11980
-			}
-		}
-		region_state:Q01 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 22980
-			}
-		}
 		region_state:SCA = {
 			create_pop = {
 				culture = inuit
 				religion = animist
-				size = 18
+				size = 71956
 			}
 			create_pop = {
 				culture = algonquian
@@ -47506,30 +47162,6 @@
 		}
 	}
 	s:STATE_ONTARIO = {
-		region_state:A06 = {
-			create_pop = {
-				culture = algonquian
-				religion = animist
-				size = 7979
-			}
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 2553
-			}
-		}
-		region_state:M09 = {
-			create_pop = {
-				culture = algonquian
-				religion = animist
-				size = 20000
-			}
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 52500
-			}
-		}
 		region_state:SCA = {
 			create_pop = {
 				culture = iroquoian
@@ -47599,12 +47231,12 @@
 			create_pop = {
 				culture = algonquian
 				religion = animist
-				size = 2269
+				size = 30248
 			}
 			create_pop = {
 				culture = cree
 				religion = animist
-				size = 325
+				size = 55378
 			}
 			create_pop = {
 				culture = neo-canada_colony-norse
@@ -52450,46 +52082,11 @@
 		}
 	}
 	s:STATE_QUEBEC = {
-		region_state:EI1 = {
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 21554
-			}
-		}
-		region_state:N09 = {
-			create_pop = {
-				culture = algonquian
-				religion = animist
-				size = 2857
-			}
-		}
-		region_state:N11 = {
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 15194
-			}
-		}
-		region_state:N13 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 29788
-			}
-		}
-		region_state:S14 = {
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 11000
-			}
-		}
 		region_state:SCA = {
 			create_pop = {
 				culture = algonquian
 				religion = animist
-				size = 2601
+				size = 5458
 			}
 			create_pop = {
 				culture = algonquian
@@ -52584,12 +52181,12 @@
 			create_pop = {
 				culture = inuit
 				religion = animist
-				size = 4606
+				size = 34394
 			}
 			create_pop = {
 				culture = cree
 				religion = animist
-				size = 1290
+				size = 49038
 			}
 			create_pop = {
 				culture = neo-canada_colony-norse
@@ -55250,35 +54847,11 @@
 		}
 	}
 	s:STATE_SASKATCHEWAN = {
-		region_state:DE2 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 11980
-			}
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 4000
-			}
-		}
-		region_state:IRC = {
-			create_pop = {
-				culture = siouan
-				religion = animist
-				size = 4618
-			}
-			create_pop = {
-				culture = cree
-				religion = animist
-				size = 13854
-			}
-		}
 		region_state:SCA = {
 			create_pop = {
 				culture = cree
 				religion = animist
-				size = 14452
+				size = 32306
 			}
 			create_pop = {
 				culture = dakota
@@ -55288,7 +54861,7 @@
 			create_pop = {
 				culture = siouan
 				religion = animist
-				size = 3179
+				size = 7797
 			}
 			create_pop = {
 				culture = neo-canada_colony-norse
@@ -55338,7 +54911,7 @@
 			create_pop = {
 				culture = athabaskan
 				religion = animist
-				size = 15749
+				size = 27729
 			}
 			create_pop = {
 				culture = dakota
@@ -71811,67 +71384,18 @@
 		}
 	}
 	s:STATE_YUKON_TERRITORY = {
-		region_state:DA0 = {
+		region_state:SCA = {
 			create_pop = {
 				culture = athabaskan
 				religion = animist
-				size = 22000
+				size = 153000
 			}
 		}
-		region_state:G03 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 32000
-			}
-		}
-		region_state:HH1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 22000
-			}
-		}
-		region_state:HH2 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 15000
-			}
-		}
-		region_state:IN1 = {
+		region_state:SCA = {
 			create_pop = {
 				culture = inuit
 				religion = animist
-				size = 20709
-			}
-		}
-		region_state:KD1 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 10000
-			}
-		}
-		region_state:L04 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 30000
-			}
-		}
-		region_state:S12 = {
-			create_pop = {
-				culture = inuit
-				religion = animist
-				size = 18000
-			}
-		}
-		region_state:T06 = {
-			create_pop = {
-				culture = athabaskan
-				religion = animist
-				size = 22000
+				size = 38709
 			}
 		}
 	}
