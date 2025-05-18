@@ -9063,6 +9063,17 @@
 		}
 	}
 	s:STATE_BRITISH_COLUMBIA = {
+		region_state:SLS = {
+			create_pop = {
+				culture = athabaskan
+				religion = animist
+				size = 6241
+			}
+			create_pop = {
+				culture = salish
+				religion = animist
+				size = 5301
+			}
 		region_state:LAN = {
 			create_pop = {
 				culture = penutian
@@ -9099,7 +9110,7 @@
 			create_pop = {
 				culture = athabaskan
 				religion = animist
-				size = 139769
+				size = 133528
 			}
 			create_pop = {
 				culture = dakota
@@ -9124,7 +9135,7 @@
 			create_pop = {
 				culture = salish
 				religion = animist
-				size = 28216
+				size = 23000
 			}
 			create_pop = {
 				culture = athabaskan
