@@ -5855,7 +5855,7 @@
 		activate_law = law_type:law_national_guard
         activate_law = law_type:law_professional_army
         activate_law = law_type:law_racial_segregation
-        activate_law = law_type:law_no_colonial_affairs
+        activate_law = law_type:law_colonial_exploitation
         activate_law = law_type:law_no_health_system
 		activate_law = law_type:law_protectionism
         activate_law = law_type:law_no_social_security
@@ -5867,6 +5867,7 @@
         activate_law = law_type:law_slave_trade
         activate_law = law_type:law_state_religion
         activate_law = law_type:law_interventionism
+		activate_law = law_type:law_no_migration_controls
         set_institution_investment_level = {
             institution = institution_home_affairs
             level = 1
