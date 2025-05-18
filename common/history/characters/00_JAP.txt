@@ -149,6 +149,7 @@
 			culture = cu:japanese
 			religion = rel:mahayana
 			birth_date = 1827.9.6
+			interest_group = ig_industrialists
 			traits = {
 				experienced_colonial_administrator trait_child 
 			}
@@ -160,6 +161,7 @@
 			culture = cu:persian
 			religion = rel:shiite
 			birth_date = 1794.7.26
+			interest_group = ig_industrialists
 			traits = {
 				experienced_diplomat innovative 
 			}

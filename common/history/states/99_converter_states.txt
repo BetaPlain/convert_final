@@ -717,15 +717,16 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:mashriqi
+		add_claim = c:PER
 	}
 	s:STATE_BAHAMAS = {
 		create_state = {
-			country = c:WIN
+			country = c:USA
 			owned_provinces = { x4EBC79 x686279 x72C072 x7A6FA3 }
 			state_type = incorporated
 		}
 		add_homeland = cu:yankee
-		add_claim = c:WIN
+		add_claim = c:USA
 	}
 	s:STATE_BAHIA = {
 		create_state = {
@@ -837,6 +838,7 @@
 		}
 		add_homeland = cu:bedouin
 		add_homeland = cu:mashriqi
+		add_claim = c:PER
 	}
 	s:STATE_BAS_CONGO = {
 		create_state = {
@@ -1825,7 +1827,6 @@
 			state_type = incorporated
 		}
 		add_homeland = cu:mashriqi
-		add_claim = c:PER
 	}
 	s:STATE_DELAWARE = {
 		create_state = {

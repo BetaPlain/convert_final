@@ -7,6 +7,7 @@
 			culture = cu:kannada
 			religion = rel:hindu
 			birth_date = 1781.1.8
+			interest_group = ig_armed_forces
 			traits = {
 				basic_diplomat 
 			}
@@ -19,6 +20,7 @@
 			culture = cu:kannada
 			religion = rel:hindu
 			birth_date = 1821.4.7
+			interest_group = ig_armed_forces
 		}
 
 		create_character = {
